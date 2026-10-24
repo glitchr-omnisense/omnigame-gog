@@ -1,0 +1,30 @@
+{
+  "_links": {
+    "self": {
+      "href": "/api/products/1207658924/prices?countryCode=FR"
+    },
+    "product": {
+      "href": "https://api.gog.com/products/1207658924"
+    }
+  },
+  "_embedded": {
+    "prices": [
+      {
+        "currency": {
+          "code": "EUR"
+        },
+        "basePrice": "799 EUR",
+        "finalPrice": "119 EUR",
+        "bonusWalletFunds": "0 EUR"
+      },
+      {
+        "currency": {
+          "code": "USD"
+        },
+        "basePrice": "875 USD",
+        "finalPrice": "129 USD",
+        "bonusWalletFunds": "0 USD"
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "pages": 2,
+  "productCount": 59,
+  "products": [
+    {
+      "id": "1640424747",
+      "slug": "the_witcher_3_wild_hunt_game_of_the_year_edition",
+      "title": "The Witcher 3: Wild Hunt — Remastered",
+      "releaseDate": "2016.08.30",
+      "productState": "default",
+      "developers": [
+        "CD PROJEKT RED"
+      ],
+      "publishers": [
+        "CD PROJEKT RED"
+      ],
+      "operatingSystems": [
+        "windows"
+      ],
+      "price": {
+        "final": "24,99 €",
+        "base": "49,99 €",
+        "discount": "-50%",
+        "finalMoney": {
+          "amount": "24.99",
+          "currency": "EUR",
+          "discount": "25.00"
+        },
+        "baseMoney": {
+          "amount": "49.99",
+          "currency": "EUR"
+        }
+      },
+      "coverHorizontal": "https://images.gog-statics.com/536b00d90b91d9248d08aff37920d9706995337cb708cb69fa45e7900edf80b7.png",
+      "coverVertical": "https://images.gog-statics.com/79ac87014addb87a16fb636a404ff8b667865f7059b9bc0a8438b69d17ddd88b.jpg",
+      "genres": [
+        {
+          "name": "Jeu de rôle",
+          "slug": "rpg"
+        },
+        {
+          "name": "Aventure",
+          "slug": "adventure"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Aventure",
+          "slug": "adventure"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        },
+        {
+          "name": "Histoire Riche",
+          "slug": "story-rich"
+        }
+      ],
+      "storeLink": "https://www.gog.com/fr/game/the_witcher_3_wild_hunt_game_of_the_year_edition",
+      "reviewsRating": 48
+    },
+    {
+      "id": "1207658924",
+      "slug": "the_witcher",
+      "title": "The Witcher: Enhanced Edition",
+      "releaseDate": "2007.10.26",
+      "productState": "default",
+      "developers": [
+        "CD PROJEKT RED"
+      ],
+      "publishers": [
+        "CD PROJEKT RED"
+      ],
+      "operatingSystems": [
+        "windows",
+        "osx"
+      ],
+      "price": {
+        "final": "1,19 €",
+        "base": "7,99 €",
+        "discount": "-85%",
+        "finalMoney": {
+          "amount": "1.19",
+          "currency": "EUR",
+          "discount": "6.80"
+        },
+        "baseMoney": {
+          "amount": "7.99",
+          "currency": "EUR"
+        }
+      },
+      "coverHorizontal": "https://images.gog-statics.com/37d4a208d1f5bb0e163da540ac894ba46a7d566ede31aaaefc74bbcd46ebd190.png",
+      "coverVertical": "https://images.gog-statics.com/32385c2c39b8715a9ccfb159ed481b55503b96526b00866f75a4af48461615a5.jpg",
+      "genres": [
+        {
+          "name": "Jeu de rôle",
+          "slug": "rpg"
+        },
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Action",
+          "slug": "action"
+        },
+        {
+          "name": "Fantasy",
+          "slug": "fantasy"
+        },
+        {
+          "name": "Histoire Riche",
+          "slug": "story-rich"
+        }
+      ],
+      "storeLink": "https://www.gog.com/fr/game/the_witcher",
+      "reviewsRating": 46
+    }
+  ]
+}
