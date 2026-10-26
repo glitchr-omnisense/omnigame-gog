@@ -19,7 +19,7 @@ final class LiveTest extends TestCase
 {
     public function testTheCatalogue(): void
     {
-        $provider = (new GogFactory(HttpClient::create(['timeout' => 30])))->create(['user_agent' => 'omnigame-tests/1.0 (+https://github.com/glitchr-studio/omnigame)']);
+        $provider = (new GogFactory(HttpClient::create(['timeout' => 30])))->create(['user_agent' => 'omnigame-tests/1.0 (+https://github.com/glitchr-omnisense/omnigame)']);
         self::assertInstanceOf(GogProvider::class, $provider);
 
         $game = $provider->game(GameRef::gog(1207658924), 'en', 'US');

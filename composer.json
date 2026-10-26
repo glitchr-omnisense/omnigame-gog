@@ -11,7 +11,7 @@
         "framework-agnostic",
         "omnigame"
     ],
-    "homepage": "https://github.com/glitchr-studio/omnigame-gog",
+    "homepage": "https://github.com/glitchr-omnisense/omnigame-gog",
     "license": "MIT",
     "authors": [
         {
@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=8.2",
-        "omniscient/omnigame": "^1.0@dev",
+        "omnisense/omnigame": "^1.0@dev",
         "symfony/http-client": "^6.4|^7.0|^8.0"
     },
     "require-dev": {

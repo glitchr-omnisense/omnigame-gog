@@ -29,7 +29,7 @@ final class GogFactory extends ProviderFactory
             'locale' => 'en-US',
             'country' => 'US',
             'currency' => 'USD',
-            'user_agent' => 'omnigame/1.0 (+https://github.com/glitchr-studio/omnigame)',
+            'user_agent' => 'omnigame/1.0 (+https://github.com/glitchr-omnisense/omnigame)',
             'api' => 'https://api.gog.com',
             'catalog' => 'https://catalog.gog.com',
         ]);
